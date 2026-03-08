@@ -1,7 +1,6 @@
 ## **Auto Scaling Group with Application Load Balancer Project**
 
 ### Introduction:
-
 * This project demonstrates how to deploy a scalable and highly available web application on AWS using an Application Load Balancer (ALB) and an Auto Scaling Group (ASG). The ALB distributes incoming user traffic across multiple EC2 instances. The ASG automatically increases or decreases the number of instances based on traffic demand. This setup ensures continuous application availability even during high load. It also improves performance and optimizes cost by using resources efficiently.
 
 * **ASG-(Auto Scaling Group)**
